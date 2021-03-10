@@ -1,6 +1,6 @@
 Twitter API that connects UICollectionView for tweet search
-Combine
-MVVM
+Combine  
+MVVM   
 
 You must possess your own bearer token (from Twitter Developer) and input it as a string in :
 let bearerToken = ""
