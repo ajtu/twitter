@@ -108,7 +108,7 @@ class ViewController: UIViewController {
 extension ViewController {
     //put in your own bearer token you get from twitter developer
     func searchWith(query: String) {
-        let bearerToken = "AAAAAAAAAAAAAAAAAAAAAIcdNQEAAAAAkeMXs8apuXWhvv4VZ0r%2BD5wNaF4%3D6xQ9MsWGVryYUNUICaOa0RttaRIhFkqcJ8zs6hP2JoI00xFk2f"
+        let bearerToken = ""
         let headers: HTTPHeaders = [
             "Authorization": "Bearer \(bearerToken)",
             "Accept": "application/json"
