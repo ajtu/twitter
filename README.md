@@ -1,5 +1,5 @@
-Twitter API that connects UICollectionView for tweet search
-Combine  
+Twitter API that connects UICollectionView for tweet search    
+Combine    
 MVVM   
 
 You must possess your own bearer token (from Twitter Developer) and input it as a string in :
